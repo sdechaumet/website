@@ -49,6 +49,9 @@ listing:
 ---
 
 ::: callout-important
+
+![](/images/W4M-News-Breaking.png){height="6em"}
+
 Workflow4Metabolomics freshens up: new website, but also new logo! Ensure you keep your goodies with the old logo safe, it is now vintage :)
 :::
 
